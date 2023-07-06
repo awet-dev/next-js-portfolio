@@ -11,7 +11,7 @@ const Projects = () => {
                         className="relative overflow-hidden rounded-lg bg-cover bg-[50%] bg-no-repeat shadow-lg dark:shadow-black/20"
                         data-te-ripple-init data-te-ripple-color="light">
                         <img src="https://mdbcdn.b-cdn.net/img/new/textures/full/126.jpg" className="w-full"/>
-                        <a href="#!">
+                        <a href='https://github.com/awet-dev/laravel-vue'>
                             <div
                                 className="absolute overflow-hidden top-0 right-0 bottom-0 left-0 h-full w-full bg-[hsl(0,0%,0%,0.4)] bg-fixed">
                                 <div className="flex h-full items-center justify-center">

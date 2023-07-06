@@ -26,7 +26,7 @@ const Introduction = () => {
                         <Modal />
 
 
-                        <img src="https://mdbcdn.b-cdn.net/img/new/ecommerce/vertical/051.jpg"
+                        <img src="/portfolio.jpeg"
                              className="w-full block rounded-lg shadow-lg dark:shadow-black/20" alt=""/>
                     </div>
                 </div>
