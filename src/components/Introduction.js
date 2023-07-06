@@ -20,7 +20,7 @@ const Introduction = () => {
                                 data-te-ripple-color="light">
                                 Contact Me
                             </button>
-                            <a className="inline-block rounded px-4 md:px-12 py-2 md:py-4 ml-2 text-sm font-medium uppercase leading-normal text-success transition duration-150 ease-in-out hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600 focus:text-success-600 focus:outline-none focus:ring-0 active:text-success-700 dark:hover:bg-neutral-700 dark:hover:bg-opacity-40"
+                            <a className="inline-block rounded px-4 md:px-12 py-2 my-2 md:py-4 ml-2 text-sm font-medium uppercase leading-normal text-success transition duration-150 ease-in-out hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600 focus:text-success-600 focus:outline-none focus:ring-0 active:text-success-700 dark:hover:bg-neutral-700 dark:hover:bg-opacity-40"
                                data-te-ripple-init data-te-ripple-color="light" href="https://github.com/awet-dev" target='_blank' role="button">Visit Github</a>
                         </div>
                         <Modal />
