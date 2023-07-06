@@ -1,17 +1,16 @@
 'use client'
 
-import {
-    Collapse,
-    Dropdown,
-    initTE,
-} from "tw-elements";
 import {useEffect} from "react";
 
 const Navigation = () => {
 
     useEffect(() => {
-        initTE({ Collapse, Dropdown });
-    })
+        const use = async () => {
+            const { Collapse, Dropdown, initTE } = await import('tw-elements');
+            initTE({ Collapse, Dropdown });
+        };
+        use();
+    }, []);
 
     return (
         <nav
