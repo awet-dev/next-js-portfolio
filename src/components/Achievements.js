@@ -7,7 +7,7 @@ const Achievements = () => {
                         <div
                             className="block rounded-lg bg-[hsla(0,0%,100%,0.55)] px-6 py-12 shadow-[0_2px_15px_-3px_rgba(0,0,0,0.07),0_10px_20px_-2px_rgba(0,0,0,0.04)] dark:bg-[hsla(0,0%,5%,0.55)] dark:shadow-black/20 md:px-12 lg:-mr-14 backdrop-blur-[30px]">
                             <h3 className="mb-3 text-2xl font-bold">
-                                We know how valuable your time is
+                                Achievements
                             </h3>
                             <ol className='list-disc flex flex-col gap-3'>
                                 <li>
