@@ -53,8 +53,8 @@ const Projects = () => {
                         <div className="ml-4 grow">
                             <p className="mb-2 font-bold">Authorization</p>
                             <p className="text-neutral-500 dark:text-neutral-300">
-                                It use the laravel authorization package which assign role and add permission to a use
-                                to only give right for doing specific action on the platform.
+                                Authorization user for doing an action using Laravel permission package (spatie) which
+                                assign role and add permission.
                             </p>
                         </div>
                     </div>
@@ -74,8 +74,8 @@ const Projects = () => {
                         <div className="ml-4 grow">
                             <p className="mb-2 font-bold">Authentication</p>
                             <p className="text-neutral-500 dark:text-neutral-300">
-                                It also enable use to register and login using the laravel package (Socialite) which
-                                create an adaptor for the OAuth providers like google, Microsoft and Github...
+                                Ability to register and login through google, Microsoft. This implemented by the
+                                laravel package (Socialite) is adaptor for the OAuth providers.
                             </p>
                         </div>
                     </div>
@@ -93,7 +93,7 @@ const Projects = () => {
                             </div>
                         </div>
                         <div className="ml-4 grow">
-                            <p className="mb-2 font-bold">Reactive user experience</p>
+                            <p className="mb-2 font-bold">Reactivity</p>
                             <p className="text-neutral-500 dark:text-neutral-300">
                                 Provide very user friendly experience using Vue in connection with Laravel that load
                                 paginated data to only load the required data.
@@ -116,7 +116,7 @@ const Projects = () => {
                             </div>
                         </div>
                         <div className="ml-4 grow">
-                            <p className="mb-2 font-bold">Responsive Dashboard</p>
+                            <p className="mb-2 font-bold">Responsive</p>
                             <p className="text-neutral-500 dark:text-neutral-300">
                                 Well organized dashboard which is separated into components and groups that make user
                                 more conformable to use the platform.
