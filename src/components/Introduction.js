@@ -2,9 +2,9 @@ import Modal from "@/components/Modal";
 
 const Introduction = () => {
     return (
-        <div className="container mx-auto md:px-6">
+        <div className="mx-auto lg:px-6">
             <section className="text-center lg:text-left">
-                <div className="p-0 md:p-6">
+                <div className="p-0 lg:p-6">
                     <div className="grid items-center lg:grid-cols-2 lg:gap-x-12">
                         <div className="mb-12 lg:mb-0">
                             <h2 className="my-4 md:text-4xl text-2xl font-bold leading-tight tracking-tight">
